@@ -8,6 +8,7 @@ This is a Python-based concert management system built with SQLAlchemy, which mo
 
 - Python 3.12.5
 - SQLAlchemy
+- alembic
 
 ### Setup
 
